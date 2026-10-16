@@ -1,0 +1,8 @@
+target
+.git
+.idea
+.vscode
+evidencias
+README.md
+scripts
+.docker-config

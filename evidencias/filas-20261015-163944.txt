@@ -1,0 +1,8 @@
+
+name          messages messages_ready messages_unacknowledged consumers
+----          -------- -------------- ----------------------- ---------
+messages.dlq         0              0                       0         0
+reviews.queue      110            109                       1         1
+support.queue      110            109                       1         1
+
+

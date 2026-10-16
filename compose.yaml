@@ -1,0 +1,64 @@
+name: trabalho5-rabbitmq
+services:
+  rabbitmq:
+    image: rabbitmq:4.3.5-management
+    hostname: rabbitmq
+    restart: unless-stopped
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-demo}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASS:-demo123}
+    ports:
+      - "127.0.0.1:15672:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    networks: [trabalho5]
+
+  generator:
+    build: .
+    environment:
+      APP_ROLE: generator
+      RABBITMQ_HOST: rabbitmq
+      RABBITMQ_USER: ${RABBITMQ_USER:-demo}
+      RABBITMQ_PASS: ${RABBITMQ_PASS:-demo123}
+      MESSAGES_PER_SECOND: ${MESSAGES_PER_SECOND:-6}
+    depends_on:
+      rabbitmq: {condition: service_healthy}
+    restart: unless-stopped
+    networks: [trabalho5]
+
+  review-consumer:
+    build: .
+    environment:
+      APP_ROLE: review
+      RABBITMQ_HOST: rabbitmq
+      RABBITMQ_USER: ${RABBITMQ_USER:-demo}
+      RABBITMQ_PASS: ${RABBITMQ_PASS:-demo123}
+      CONSUMER_DELAY_MS: ${CONSUMER_DELAY_MS:-1500}
+    depends_on:
+      rabbitmq: {condition: service_healthy}
+    restart: unless-stopped
+    networks: [trabalho5]
+
+  support-consumer:
+    build: .
+    environment:
+      APP_ROLE: support
+      RABBITMQ_HOST: rabbitmq
+      RABBITMQ_USER: ${RABBITMQ_USER:-demo}
+      RABBITMQ_PASS: ${RABBITMQ_PASS:-demo123}
+      CONSUMER_DELAY_MS: ${CONSUMER_DELAY_MS:-1500}
+    depends_on:
+      rabbitmq: {condition: service_healthy}
+    restart: unless-stopped
+    networks: [trabalho5]
+
+networks:
+  trabalho5:
+
+volumes:
+  rabbitmq_data:

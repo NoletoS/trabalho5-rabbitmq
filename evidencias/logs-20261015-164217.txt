@@ -1,0 +1,300 @@
+generator-1         | PUBLICADO id=e073f64e-400c-4475-96c5-d6b9fcf427e6 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=4eb3b06e-0515-4a32-842c-6640032438c2 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=2b7cadc9-2c76-43bd-acfb-bbea8bbfdfe4 chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=437eff0e-0345-4b99-b70c-f11e12efeaf9 chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c5767855-a913-4d2c-a2f9-6b50bc3fc79d classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=752b7bc7-d373-4904-a227-21eb21d22c41 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6ddb0d07-1d3f-4a10-8e33-69a5b8fe7e40 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=2cded522-6c76-445a-ba41-b8e7ba4935e5 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b0af6138-4617-4c6e-8f0e-59970b2f282c classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=33dc7757-6f82-4f2f-87b9-016b92beafd6 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=a9bfbc17-ca49-4d63-be40-958a5c75bf93 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ff63e7fb-6077-43b0-be88-6185c033ba79 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=0c4f57f9-9744-4413-ab98-ec1951c8d202 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b757b9a5-bf36-4264-aaf4-44646d3677e8 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=99ee526d-873f-4bec-84f0-6881a8e9d50a classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=b85b2117-5f6d-4d61-a484-0b571624a733 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b928ecb8-41d4-41a5-abcf-831394dd029b classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=dda52eae-69ab-4ff3-a61f-089f27e69997 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ced3d3be-38f7-4a63-a0c3-d8a8ff02d5ec classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c244f770-8180-4b4c-bbbc-3be94d8e1fa5 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=a56b77c5-956e-45bd-85af-f0c3dd736324 chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=435ca166-3140-4f56-b952-474bccfd6371 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=1442ee5e-9934-4869-af5d-f5f35df79228 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=50fd76b3-20e7-46ab-b8db-87cd6fb3f858 chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+generator-1         | PUBLICADO id=38d3d00f-a3f4-4179-86e4-da843601f7f3 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+generator-1         | PUBLICADO id=9679ba08-3fa3-47db-8b40-8ec93c2e0a76 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=591a13c4-79eb-4206-8795-f6da44589888 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=6906385c-9b73-442c-9aad-77958dc7c803 chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=447197cf-9e85-471d-bbb4-4a8f58f650ed chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=c4791cee-d8a8-4f2c-a2ff-086feb7e8e22 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=d0395a2a-1f74-4795-a7cf-1481871984fe chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=12efa0ab-0f59-4e4a-adea-b1c908dca844 chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=0f46503e-fca7-420c-b703-ccfbdeaea7c3 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=1fc8f818-d0bb-4fa5-a318-2cfa2a0584cd chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=4eb5f476-22b4-470e-9451-6900bcc91029 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=e56b1f1c-1238-460d-8ab3-c2fed8556142 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=770c1b00-b5c9-4a77-ac7f-599149d2de47 chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+generator-1         | PUBLICADO id=e4d3f4fc-524d-4dbf-a5a4-31bfe7e1fbae chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=2a977d21-571e-4c5a-938e-d21af1697382 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=4754a678-fa6b-4383-89ca-7245f57657b7 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+generator-1         | PUBLICADO id=3924f231-c60d-4756-8d09-40bb755200f2 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=450f7195-62cf-4c51-b5cb-1e633ce28ae6 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=3081ca45-9fb0-4fd2-9adb-5996d5007e57 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=cf4ee2a3-3a74-4b6f-96c5-17634986cef5 chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=95fa4047-f7f6-40c0-b347-f7d41c27bc79 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=2eb317f7-a36e-4b53-9773-308aeea99975 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=0c05a7ab-4bd8-42f8-8c6a-2166944f3dd5 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=71330f07-af86-4cda-b929-dc0c6d1e5951 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=470d00de-8130-401d-a2c2-6f498beacb3b chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=1212e043-2650-4671-93fd-286761acb0a1 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6012c5dd-1e70-4800-b1f0-1bc9e9238fbe classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=fc542488-56d3-4a7f-80d0-85ca577a4490 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=416d8c5d-b102-40f4-88e9-6a554dea27f7 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=a7748315-33b2-41ea-8cd6-c514e94ace9c classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=64ed6fab-69e2-4dda-a0b4-c1a035a86fe3 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=88913389-7995-417e-a85d-73a0cd6bab85 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=88574a8d-64fb-4f6a-8836-cc4b04d701f9 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=c5b3340a-1878-4603-a819-7a5302fef059 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=17447b4c-3132-4fdd-9169-5b467a479e29 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=d26ab09b-de1d-4cb5-aad9-c6f4c9f9dd0c classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=bf13542e-2c17-4ba7-bdf7-30219ac39cba classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=81b637ee-0865-41b2-a630-98afb985c586 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=a1423352-e97e-4e79-ab21-311b13f9e43a classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=6b4deb19-dd56-480f-96cb-c8f2e831b834 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=d2c7dec4-7e2c-4882-9e4a-e9593815733a classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=bcf76eb6-46fc-4946-9cce-c4867cc43cd1 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e515b413-caa8-4e9d-9e0c-8fa143d34b17 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=7cdbe681-da73-421c-b308-031a0d8f6ed4 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=7b4f64d0-c556-43de-b652-4b5df29bb08c classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=df3ef89b-86ea-4414-9973-c2c5dc7deb61 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=71ec34e1-b929-4135-8885-09d7675406e6 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=8fc7159d-955d-4aca-874f-4f3fcf5515f0 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=8a658a1e-712a-4d40-857b-12cf6aa0d34e classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=846711f2-37a3-45fe-bf21-51404f372d4c classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e0c81c84-fe95-4cc6-849f-4d320c1a706d classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=4eba424c-76a8-48e6-9df4-08feeaa0fab0 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=1b2ab3d8-bd64-4809-9d3d-5cb0705ea8a3 chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=41846e03-90e0-477a-92a8-ed2a747dea19 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=5d78c456-7d03-4851-8dc6-77924e50d9b8 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=3f8aa265-bce6-448d-aa03-ff77c412c0d4 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c1faf4bb-8c40-4140-976b-9c8e27958c8f classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=387428ab-ccc1-417a-b89e-4689aeec5a4a classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d5454ab1-fd4a-4be3-bf3e-3ade7ffb6259 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=c456106d-c037-4dd7-8d2f-73fdb390856f classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | Gerador iniciado: 6 mensagens/s; exchange=messages.topic
+generator-1         | PUBLICADO id=a66de3df-9102-4801-b32b-4cd3bb23f609 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+generator-1         | PUBLICADO id=6a447a0c-747f-49f8-9570-deb8b68e8bf8 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=91117aea-8126-4b9b-a863-30f325219391 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=4abdc373-3af2-4dda-9627-d18a89f081c0 chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=04b8fc2a-c04e-4727-b20d-7e3bbd6a8d0d chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=0bff176f-543b-40da-8476-df790cfd1436 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=67321abb-9eda-4c09-8e1a-a41679249f81 chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=57a3cb9f-f32d-4b5b-96c1-b9fb472f3156 chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=3e03e2b6-e117-4bec-aae4-3d48242f4276 chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=fd1e8ec6-2a02-4f7b-9cab-8a19e655153b classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=29ae20a0-90d8-47e0-80b3-da3dab3e9408 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e38fcb46-272a-4da8-ae87-166bdc1e4593 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=9cb54043-2ef1-4beb-8ed4-4ad863ed4c23 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=a1a57714-7c09-4a68-851a-47a0b3808621 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=56391a74-8404-489e-8ec1-7dff9c9d5920 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=12c9cc76-6cb2-404d-a277-51a1d85d2a83 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=5ef3d12b-4f3a-47e2-bb58-d9e72e384699 chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=190480d5-d14d-4ba2-a522-f3e609b46bb8 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=e83fd7e0-fbc3-4c3a-a2e3-71e0cdffc60c classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b617ec86-1948-467b-a146-791f4493e022 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=479a9b2a-f30f-4f4e-99ef-1c7947c9af20 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=34a620f7-c680-4f0f-85fe-4ea096280fbc classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=7bde351e-e3c7-464e-8713-814236cb8fc9 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=38861f44-1d6d-4f73-b601-d3d5ee33dec7 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=978f0233-5dc3-4bdd-b675-451592b413e9 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=91b85605-f0fc-410f-85e7-6825c606d98e classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=f693dc46-0dde-48b5-8533-72e89d2cb935 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=3de69819-bf18-4cb9-97b6-df71aa1f4897 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=78002592-1c51-4d14-a356-56747f2275cf classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=4a458f33-9238-4ca9-b97a-bb7efa0f1dd8 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=9b24f36f-02cc-413d-bf54-877893ea61ad classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=0840168f-fca4-4177-9e2e-dfcf38b209c0 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ca03ce15-9800-4af5-a421-497acc28ed62 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=23ced60f-0e16-4676-ade6-d20a5244845d classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=72af8d80-23ca-4aa1-9c8b-5af5b97c96d4 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=6f5a0adb-3990-4301-a221-79bb402017b7 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=49f635f7-7092-448b-a31d-4857e1395a78 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6f63da79-2e8f-4552-81ae-ead5c9f6667b classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=93c6e93f-b9c7-4523-a4bc-dac5337c4ed3 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=10a42fec-8b1c-4f26-a058-0c93bd032351 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d3c54dbe-eb4e-43bb-af33-01b9570844ae classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=48293de7-9877-47d8-8038-5f20de62ba99 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=7b51c987-0371-4d75-89f4-9ab244f0ba10 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=80cf3025-77bc-4d2b-a27c-6473d0f10c65 chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=ca0b6f05-c4e0-4fe3-9224-a0d7ab453b4f classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=61f320ab-44ef-4d26-828d-56faa432c3bf classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=bf01762a-7b69-4d85-bace-cbe1ce56a175 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=f3f0e932-0f22-444e-9775-dac7c96d037a classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=ef682131-20d4-4d70-891d-49ae2b21e784 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=ee262375-a41c-40e7-8a2d-4307d8fe2bc7 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d9f13f7a-ab16-4857-97a8-f38b1a94a19e classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=2fec23ea-f3f8-45e9-9a4e-fb48cffe3864 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=315e9e71-85d6-40b5-a84f-acb0d0f748c7 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d03a3894-5ab7-45b9-8b02-6d68079e793e classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=4dc1c6a1-3912-47b1-9e59-7fed9823a098 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=8d1c3528-ee5b-44a6-9ad0-ed50ccf1b15a classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=5ac3856c-46ef-4ab7-b26d-956672a09b0a classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=a6a3f798-14c6-427a-8552-0d6adb27bab5 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=2768bedf-51ab-4441-919a-e8accd723fc7 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=5abbde81-d116-47cf-9a81-8c650359c1ee classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=85549a7b-413a-4c20-8c1e-052514d61cbe classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d2712d00-1a93-4d99-b352-3275da02dd16 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=3f51ec08-c645-4dd9-ab91-fafaf68dd207 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=586b4fb9-76f9-4948-b23c-a22b20216fbe classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=24b8cd7a-fdb2-4cc7-b8e6-62eafeea6dd2 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c5f112a7-d2a2-44fe-beb8-4978393b02cc classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=a49a1c91-eaf5-481a-87b6-94e992bfe7db classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=f36f05e8-6ec4-4b60-8764-6a40a45b4216 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=27d3a7ac-0190-4353-952a-f9a216e1097c classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=df8698f3-33b9-4a66-b407-e1b39b6bd232 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=fcbb7705-2016-4d54-8e98-121b1b2db42a classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=685546eb-6e4a-4773-b474-ed3f518b7977 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=a4e1b818-80e7-4484-ba06-c63a002441d6 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=3c91bff2-d964-4f27-ab27-719c8fb8b8e2 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=f9ada414-e2d3-44d4-9243-efca3ec7ad59 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=1e19bd71-5a56-4074-8e14-9a6156eb6381 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=476c2da3-9176-45a8-b07c-671e2f8571cc classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=21544b6b-9cdb-448c-afb4-d6fb08279b39 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=b5eb4e31-fc48-45ee-9764-bea84ba2b9bf classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=17e80bae-6385-43eb-b7f1-4d40b5c35b15 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e2a1be7d-c7fe-4e97-85a4-c266bffebde8 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=0cfd8e07-5b96-475b-90db-fe02c0a0076f classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ee96b012-374e-4db0-8033-def2f0e149a8 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=8487788e-ec5d-41a8-928c-4cb61ae32409 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=f01d889e-4d2a-40a3-bd91-7d58f3d9f8eb chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=de029801-3ed6-493b-a016-df6bd6c781ce chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=4aa6a333-843d-4b4a-9a19-b923a7cf69b7 chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d7eba0e0-7fe5-4ea6-b4a8-9853d2711286 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=4b1ee06e-3847-4c6c-9f25-8566adfde9dc classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=2cd17d27-aff4-4db2-8dc2-3fabd58f8878 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+generator-1         | PUBLICADO id=d1710b68-4fc0-425d-af8f-51850b4714f8 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=57f789b5-c29c-4631-8db7-256edc2438c3 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d4847a2d-5416-4b4f-80a6-ba201bef2bb5 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=f0bafb3d-4c45-4cde-beaf-ef186a7b5dd8 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=36eeb4fa-799c-4fd7-ae0c-8864533a6e0e chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ea5de84e-fcab-45a5-b6cb-0a84a524a7a1 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=447b6dad-0755-4a65-b09f-c564a41c0724 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=9e8ead9d-5948-4a9a-a746-e6311b405040 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=2233baeb-19c0-467b-9857-24d9a4aa3e98 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=b63201bc-ec31-4df2-bdca-6ada5d3973d7 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=76024e18-a686-4047-aa53-11deccfa9c32 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=7a463ff6-7651-44ef-b993-bcdfd4f5773a chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=2e488d17-039f-468c-9e20-62a678fc4254 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=1e8bedee-59c5-4c5a-8fc0-e52ee88ea9d9 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=0f767406-46b9-422b-b538-8a89d90a5d71 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b6112b32-03de-4679-aa9a-503211626f76 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=89a98d71-8932-432a-a29f-5b3122bd6ef0 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=377baea0-de84-4747-b04f-1e31f1d6fe7b classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=90feb3de-bb9a-468f-9f54-8661b754a2b0 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=c04987d0-c167-41e8-8cf6-d8abd8860573 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=d1e2a8c3-63ee-4bc6-9674-f807e50b325e classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=cc68522b-935b-4f20-8bdf-2efe6284c603 chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b366c6d5-3cf3-4721-9d61-c3f05109b462 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e16ac5e3-0157-44a8-b7be-e5da328d150c classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c641ca47-1920-41fc-88fa-fe396074dc78 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=62223384-c7e8-4a10-a5ca-ecb6ea691816 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=eb0fef74-c8b0-46e1-adc6-e5cb1082363c chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=086afda3-8ee5-4798-abcd-f34461f82058 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=335b691d-175d-421b-af89-ae1875e95ce3 chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=12446e53-ec09-489e-9c23-5082127dd6e1 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=fdc17a09-7b0e-42f0-89ad-6e7be5f14193 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=0bee0876-d3dd-4f87-ac4f-a11e742738c0 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=53c0f3dc-6091-4933-9530-b2eedf986746 chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+generator-1         | PUBLICADO id=804ed735-be76-4f16-9977-8cf742f555d0 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+generator-1         | PUBLICADO id=0f02d505-313c-4713-91cf-2945c0faa47a chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=5d11d89e-63d7-423a-8c54-4a5a2472bc52 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=088b68fd-7349-4038-b9b8-3625351d0d8b chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+generator-1         | PUBLICADO id=dc9f8b9a-d6cd-4ffa-82bb-f3d414a99a64 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=9311b67a-47a0-4bf7-8f08-72e775ecd464 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=15492a71-a853-418c-aad4-34f333aa0a12 chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=19c39a71-4d42-40da-b5c8-cab8a299fa0c chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=392864a7-7e21-4909-adce-6d85b608f75d chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=191e0b79-d056-40aa-8118-f3a4ebc46da4 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=7db81bba-46dd-42ac-b8fc-068c6fce69e0 chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6bb6282f-fc98-425c-9da8-07d47f67f2ee classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=6c9b0d76-c5fb-4a8c-9778-45125f89a313 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=f8d9da0a-b688-48a4-9a7d-fcaa440000d0 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=179477c1-471f-4052-b47b-37cfea0769cf chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=bbaf2527-e05b-4337-8ed5-7e9999fefd0c classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=f675d9db-8ba3-4df0-ab2c-7675f4c06fc6 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=dfff946d-7552-4b5d-9de8-03890335747b classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+generator-1         | PUBLICADO id=d0a07ea6-f5a2-4b02-9193-c07d1861c7c6 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=8547284d-e349-4fed-bc3a-480b42d3b5b8 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=33e8430a-f3f3-490a-8bdf-0356b13f1656 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=ba277671-e154-4806-8edf-3be4a5f5b5e4 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=ef9f717c-6b05-4546-a57b-664d714232e8 chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=461913ab-6ee0-4370-82e7-ca60ef637336 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=e74aeb6f-a145-4272-a126-959c256a7e51 chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=b32155d0-95ac-4c9e-9314-8fcb6ab7a5ce classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6b8dcadf-a840-4394-98d1-69ceb6cf4f0d classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=f202e993-a0fc-41f6-8259-ec4abbfb3a9b classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b819509b-2ff0-4239-a0d9-f6b9f8c5aa95 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b3b82c60-47e5-4f30-9aa8-52bcd1249298 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=00b360d5-bfff-4173-a88a-1e8f97edf5a3 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6fb1772e-d31f-47ec-a09b-3acafd9ee71c classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=85217f4d-4dad-40ad-8388-4d27f93615bf classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=cc815a6c-dbf5-4bb2-8f14-9889ec93b7f8 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+generator-1         | PUBLICADO id=98cb02d3-2624-4228-80cb-df005d1f270c chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=fc601798-e99d-4230-aa59-4a59cc1fcb4c chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=d225a91e-e03d-4070-a478-2d29a034577c chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=aa7e5451-6bb5-4227-b670-49ad5b3d86ae chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=1ffbabe3-db68-46fa-b2ac-ceea88e045ef chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=eb5bb755-528d-4f54-abb1-38ae37b8cefc chave=support.request referência=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e7aaaf06-8d0c-4bdb-87e6-9f6a45a6d5d4 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=f90ef822-f8b4-43f4-b140-d59d089c3e61 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=cd415e7f-facc-40eb-b2df-0a88dba0ff38 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e2f643ea-f74b-4681-9b23-193b1dfe662e classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=5dfd8efc-cbf4-4211-a3aa-0e6dbb6e53f7 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=6910765e-0e17-485f-a668-500b3222ba91 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=b3ca3c76-2b0e-468d-b83a-02e43454efb8 classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+generator-1         | PUBLICADO id=8cd36f06-30cd-4ff7-bdb0-10499b5cea39 chave=review.product referência=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=c5f09396-c6b9-4092-b26d-3623a45c9c75 classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=a274387b-be78-44ef-a4f8-8449445e884a classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=edcb81cc-ce1d-4de7-b21f-259df1691f5c classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e1dbdd89-d48a-4c1b-a9b3-ae2e93bc78f4 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=b8b3abac-323d-4242-9af3-3f3a5b2743e4 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=062fc011-10aa-458e-9601-c5b06eff14df classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+generator-1         | PUBLICADO id=ca77b739-804f-442a-9746-70a8bda932d8 chave=review.product referência=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=46207a01-e0c7-4534-bb22-0ab5795b7372 chave=review.product referência=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=18265074-0e40-4b20-a8e4-913567518fbd classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=3fd99cc3-6348-49f6-b5d5-b4224a855d2f chave=support.request referência=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=46275538-2b4a-435b-b072-8d4f6f5e1787 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=43152f3f-0df9-4cb9-b91f-61e16e3d0883 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=3df96953-1b12-4952-8663-0ec67a6ec89a classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=32140b42-9d9d-4bfb-8654-bf2e9f0425dc classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=4bdddc5f-afa6-4245-a176-a332586d4523 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=e0f3613f-87a6-4b5a-be9c-2db992a19d45 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+generator-1         | PUBLICADO id=66f8e306-495c-4691-b218-8cc1979d537a chave=support.request referência=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=8829438a-30cb-4775-941e-2f40ef67bc7c classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=dc905891-5c85-4242-be1f-d9474d42d94c classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=b20c7c21-80b0-49ab-9f81-5706050491d9 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=256bbafe-6eea-4a4e-ad15-7361819ff517 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=436740fb-5f80-4a4d-be11-9e8584c94ab4 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=c263a806-5ea1-41a2-9d1d-7e77528ee449 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | ERRO fila=reviews.queue tag=100 motivo=Unexpected character ('J' (code 74)): was expecting double-quote to start field name
+review-consumer-1   |  at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 3] -> DLQ
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=a66de3df-9102-4801-b32b-4cd3bb23f609 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=6a447a0c-747f-49f8-9570-deb8b68e8bf8 classe=negativa conteúdo=Péssima compra, veio quebrado e a qualidade decepcionou.
+generator-1         | PUBLICADO id=50f071a1-2982-44bd-8618-4173669762b0 chave=support.request referência=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=91117aea-8126-4b9b-a863-30f325219391 classe=neutra conteúdo=O produto chegou hoje; ainda não usei para avaliar.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=67321abb-9eda-4c09-8e1a-a41679249f81 classe=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=57a3cb9f-f32d-4b5b-96c1-b9fb472f3156 classe=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=3e03e2b6-e117-4bec-aae4-3d48242f4276 classe=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+review-consumer-1   | CLASSIFICADO fila=reviews.queue id=38861f44-1d6d-4f73-b601-d3d5ee33dec7 classe=positiva conteúdo=Produto excelente, chegou rápido e funciona perfeitamente.
+generator-1         | PUBLICADO id=709d7528-a123-487b-9d1a-c4720706f0ae chave=review.product referência=positiva conteúdo=Adorei a compra; ótima qualidade e entrega rápida.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=734cb532-acfa-4ed1-a8e0-e71498df8b96 classe=problema de conexão conteúdo=A rede cai toda hora e o servidor fica desconectado.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=64968459-c3a2-4f50-93f6-464e61e73f87 classe=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+generator-1         | PUBLICADO id=72b9aee4-c445-4afb-8330-a8edbcb37a65 chave=review.product referência=negativa conteúdo=O item é ruim, apresentou defeito e fiquei insatisfeito.
+generator-1         | PUBLICADO id=3f901851-3037-4ddc-a0cd-247ee3c85d62 chave=review.product referência=neutra conteúdo=Recebi o item ontem; vou testar antes de dar uma opinião.
+generator-1         | PUBLICADO id=13521cc5-6d66-459a-b525-c19051670eaa chave=support.request referência=problema de acesso conteúdo=Minha conta foi bloqueada e não consigo autenticar.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=6b0e9ca1-eb1a-4da2-9909-4f41dbb3c3cf classe=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=017e8bcc-3b34-42d1-9cee-f525a0c5ea7d classe=problema de conexão conteúdo=A conexão com a internet caiu e não alcanço o servidor.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=ef1500d3-7eab-4394-8811-df56882b3929 classe=problema de acesso conteúdo=Não consigo entrar na conta, a senha é recusada no login.
+support-consumer-1  | CLASSIFICADO fila=support.queue id=afa66381-e2e5-4024-8837-5871c4777dc5 classe=problema de desempenho conteúdo=O aplicativo está muito lento e trava ao abrir relatórios.
+generator-1         | PUBLICADO id=b0bbc04a-0dec-4a53-991f-02be24bf7527 chave=support.request referência=problema de desempenho conteúdo=A página demora muito para carregar e o sistema congela.

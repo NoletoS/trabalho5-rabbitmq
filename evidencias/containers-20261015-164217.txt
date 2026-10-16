@@ -1,0 +1,5 @@
+NAME                                    IMAGE                                 COMMAND                  SERVICE            CREATED         STATUS                   PORTS
+trabalho5-rabbitmq-generator-1          trabalho5-rabbitmq-generator          "java -jar /app/app.…"   generator          3 minutes ago   Up 11 seconds            
+trabalho5-rabbitmq-rabbitmq-1           rabbitmq:4.3.5-management             "docker-entrypoint.s…"   rabbitmq           3 minutes ago   Up 3 minutes (healthy)   127.0.0.1:15672->15672/tcp
+trabalho5-rabbitmq-review-consumer-1    trabalho5-rabbitmq-review-consumer    "java -jar /app/app.…"   review-consumer    3 minutes ago   Up 3 minutes             
+trabalho5-rabbitmq-support-consumer-1   trabalho5-rabbitmq-support-consumer   "java -jar /app/app.…"   support-consumer   3 minutes ago   Up 3 minutes             

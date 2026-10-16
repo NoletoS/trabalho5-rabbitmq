@@ -1,0 +1,23 @@
+[
+  {
+    "name": "messages.dlq",
+    "messages": 0,
+    "messages_ready": 0,
+    "messages_unacknowledged": 0,
+    "consumers": 0
+  },
+  {
+    "name": "reviews.queue",
+    "messages": 110,
+    "messages_ready": 109,
+    "messages_unacknowledged": 1,
+    "consumers": 1
+  },
+  {
+    "name": "support.queue",
+    "messages": 110,
+    "messages_ready": 109,
+    "messages_unacknowledged": 1,
+    "consumers": 1
+  }
+]
