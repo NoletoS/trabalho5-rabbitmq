@@ -86,13 +86,9 @@ Para testar a DLQ, execute `./scripts/inject-error.ps1`. O script publica JSON i
 
 As capturas e os registros reais da execução estão em `evidencias/`.
 
-## Entrega
+## Vídeo de demonstração
 
-O repositório GitHub da entrega deve conter código, `Dockerfile`, `compose.yaml`, este README e evidências reais em `evidencias/`.
-
-Vídeo da demonstração (5 minutos): [Sistema distribuído com RabbitMQ](https://youtu.be/5YZC3EW2NZs).
-
-**No SIGAA, envie somente o link do repositório GitHub.**
+[Assistir à demonstração (5 minutos)](https://youtu.be/5YZC3EW2NZs).
 
 ## Referências técnicas
 
